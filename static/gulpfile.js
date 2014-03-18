@@ -35,7 +35,7 @@ var dst = {
     css: 'dist',
     images: 'dist/images',
     sass: './css'
-}
+};
 
 var paths = {
     js: [
