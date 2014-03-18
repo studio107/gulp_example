@@ -1,0 +1,12 @@
+.DS_Store
+
+.idea
+*.iml
+
+static/vendor/*
+static/dist/*
+
+.sass-cache
+.scss-cache
+*.sassc
+*.scssc
